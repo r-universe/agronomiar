@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "AgroReg"]
-	path = AgroReg
-	url = https://github.com/cran/AgroReg
 [submodule "seedreg"]
 	path = seedreg
 	url = https://github.com/cran/seedreg
